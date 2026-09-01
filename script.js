@@ -1,0 +1,1 @@
+console.log("Komal Portfolio Website Loaded Successfully!");
